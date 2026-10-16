@@ -2,9 +2,9 @@
 
 PS Vita 일본어판 **PCSG00369**을 위한 비공식 한국어 패치 제작 소스입니다. 저장소에는 게임 원본 파일이나 완성된 `misc.dat`·`resources.dat`를 포함하지 않습니다. 보유한 원본 게임과 [PC판 한국어 패치](https://github.com/mushsooni/GuacameleeSTCE_kor/releases)의 파일로 직접 빌드합니다.
 
-![한국어 타이틀 이미지와 Vita3K 한글 메뉴 시험 화면을 합성한 프로젝트 소개 이미지](images/guac_korean_showcase_v1.png)
+![한국어 로고와 메뉴가 함께 보이는 게임 메뉴 소개 이미지](images/vita_menu_korean_logo_composite_v1.png)
 
-> 소개용 합성 이미지입니다. 상단은 한국어 타이틀 **이미지 소스**, 하단은 사용자가 Vita3K에서 확인한 **로고 교체 전 메뉴 화면**입니다.
+> 로고 교체 전 Vita3K 메뉴 캡처에 한국어 로고를 넣은 소개용 합성 이미지입니다. 사용자가 실제 게임에서도 한국어 로고와 메뉴 문구가 정상 표시되는 것을 확인했습니다.
 
 ## 게임 소개
 
@@ -24,7 +24,7 @@ PC판 *Super Turbo Championship Edition* 한국어 패치를 번역 자료로 �
 
 ## 화면
 
-원본을 따로 확인할 수 있습니다: [메뉴 시험 화면 1](images/vita_menu_korean_test.png) · [메뉴 시험 화면 2](images/vita_menu_korean_test_2.png) · [한국어 타이틀 이미지 소스](images/guac_korean_title_screen_generated.png). 최종 타이틀의 실제 게임 화면은 아직 별도 확인이 필요합니다.
+합성 전 캡처와 이미지 소스도 볼 수 있습니다: [메뉴 시험 화면 1](images/vita_menu_korean_test.png) · [메뉴 시험 화면 2](images/vita_menu_korean_test_2.png) · [한국어 타이틀 이미지 소스](images/guac_korean_title_screen_generated.png).
 
 ## 준비물
 
@@ -63,8 +63,8 @@ Vita3K에서 시험하려면 `ux0/app/PCSG00369/`의 원본 `misc.dat`와 `resou
 
 ## 확인 상태
 
-- 사용자가 Vita3K에서 한국어 메뉴와 글꼴 표시를 확인했습니다.
-- v0.9.0의 로고 교체·버튼 표기 수정본은 파일 구조와 빌드 결과를 확인했습니다. 최종 게임 화면, 전체 진행, PS Vita 실기기 적용은 추가 검증이 필요합니다.
+- 사용자가 Vita3K에서 v0.9.0의 한국어 로고, 메뉴 문구와 글꼴이 정상 표시되는 것을 확인했습니다.
+- 버튼 표기 수정본은 파일 구조와 빌드 결과를 확인했습니다. 전체 진행과 PS Vita 실기기 적용은 추가 검증이 필요합니다.
 - 이상이 있다면 화면 사진과 발생 지점, 사용한 게임 버전을 함께 알려 주세요.
 
 ## 제작 및 출처
