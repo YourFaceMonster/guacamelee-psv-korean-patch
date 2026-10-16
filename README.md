@@ -4,8 +4,6 @@ PS Vita 일본어판 **PCSG00369**을 위한 비공식 한국어 패치 제작 �
 
 ![한국어 로고와 메뉴가 함께 보이는 게임 메뉴 소개 이미지](images/vita_menu_korean_logo_composite_v1.png)
 
-> 로고 교체 전 Vita3K 메뉴 캡처에 한국어 로고를 넣은 소개용 합성 이미지입니다. 사용자가 실제 게임에서도 한국어 로고와 메뉴 문구가 정상 표시되는 것을 확인했습니다.
-
 ## 게임 소개
 
 *Guacamelee!*는 멕시코 문화와 민담에서 영감을 받은 세계를 탐험하는 액션 플랫포머입니다. 주인공 후안은 전설적인 루차도르 가면을 쓰고 납치된 대통령의 딸을 구하러 나섭니다. 격투 기술을 이동에도 활용하고, 산 자와 죽은 자의 세계를 오가며 길을 찾아갑니다. [개발사 Drinkbox Studios의 게임 소개](https://www.drinkboxstudios.com/games/guacamelee-super-turbo-championship-edition/)
