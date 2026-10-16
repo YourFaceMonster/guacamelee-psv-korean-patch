@@ -2,9 +2,15 @@
 
 PS Vita 일본어판 **PCSG00369**을 위한 비공식 한국어 패치 제작 소스입니다. 저장소에는 게임 원본 파일이나 완성된 `misc.dat`·`resources.dat`를 포함하지 않습니다. 보유한 원본 게임과 [PC판 한국어 패치](https://github.com/mushsooni/GuacameleeSTCE_kor/releases)의 파일로 직접 빌드합니다.
 
+![한국어 타이틀 이미지와 Vita3K 한글 메뉴 시험 화면을 합성한 프로젝트 소개 이미지](images/guac_korean_showcase_v1.png)
+
+> 소개용 합성 이미지입니다. 상단은 한국어 타이틀 **이미지 소스**, 하단은 사용자가 Vita3K에서 확인한 **로고 교체 전 메뉴 화면**입니다.
+
 ## 게임 소개
 
 *Guacamelee!*는 멕시코 문화와 민담에서 영감을 받은 세계를 탐험하는 액션 플랫포머입니다. 주인공 후안은 전설적인 루차도르 가면을 쓰고 납치된 대통령의 딸을 구하러 나섭니다. 격투 기술을 이동에도 활용하고, 산 자와 죽은 자의 세계를 오가며 길을 찾아갑니다. [개발사 Drinkbox Studios의 게임 소개](https://www.drinkboxstudios.com/games/guacamelee-super-turbo-championship-edition/)
+
+**Metacritic 87/100** — *Guacamelee!* PS Vita판 비평가 점수, 리뷰 22건 기준. [점수 출처](https://www.metacritic.com/game/guacamelee/). 이 점수는 원작 게임 평가이며 한글패치의 평가 점수가 아닙니다.
 
 ## 패치 내용
 
@@ -18,15 +24,7 @@ PC판 *Super Turbo Championship Edition* 한국어 패치를 번역 자료로 �
 
 ## 화면
 
-사용자가 Vita3K에서 확인한 한국어 메뉴 화면입니다. 아래 게임 화면은 **로고 교체 전 시험본**이므로 일본어 로고가 보입니다.
-
-![한국어 메뉴 시험 화면 1](images/vita_menu_korean_test.png)
-
-![한국어 메뉴 시험 화면 2](images/vita_menu_korean_test_2.png)
-
-아래는 v0.9.0에 사용하는 **한국어 타이틀 이미지 소스**입니다. 최종 게임 화면은 아직 별도 확인이 필요합니다.
-
-![한국어 타이틀 이미지 소스](images/guac_korean_title_screen_generated.png)
+원본을 따로 확인할 수 있습니다: [메뉴 시험 화면 1](images/vita_menu_korean_test.png) · [메뉴 시험 화면 2](images/vita_menu_korean_test_2.png) · [한국어 타이틀 이미지 소스](images/guac_korean_title_screen_generated.png). 최종 타이틀의 실제 게임 화면은 아직 별도 확인이 필요합니다.
 
 ## 준비물
 
