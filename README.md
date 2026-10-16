@@ -1,4 +1,4 @@
-# 과카밀리! PS Vita 일본어판 한글패치 v0.3.0 시험판
+# 과카밀리! PS Vita 일본어판 한글패치 v0.9.0 시험판
 
 PS Vita 일본어판 **PCSG00369**의 게임 텍스트와 타이틀 이미지를 한국어로 바꾼 비공식 rePatch 패치입니다. PC판 *Guacamelee! Super Turbo Championship Edition*의 한국어 패치를 바탕으로 Vita판 문장과 버튼 표기를 조정했습니다. 두 판본이 달라 전체 플레이 검증은 아직 필요합니다.
 
@@ -12,7 +12,7 @@ PS Vita 일본어판 **PCSG00369**의 게임 텍스트와 타이틀 이미지를
 
 ## 다운로드
 
-[v0.3.0 시험판 릴리스](https://github.com/YourFaceMonster/guacamelee-psv-korean-patch/releases/tag/v0.3.0)의 `Guacamelee_PCSG00369_Korean_rePatch_v3.zip` 파일을 받으세요.
+[v0.9.0 시험판 릴리스](https://github.com/YourFaceMonster/guacamelee-psv-korean-patch/releases/tag/v0.9.0)의 `Guacamelee_PCSG00369_Korean_rePatch_v0.9.0.zip` 파일을 받으세요.
 
 ## 설치
 
@@ -29,7 +29,7 @@ Vita3K에서는 `ux0/app/PCSG00369/`의 같은 이름 파일을 백업한 뒤 �
 ## 확인 상태
 
 - Vita3K 메인 메뉴의 한글 글꼴과 문장 표시는 사용자가 화면으로 확인했습니다.
-- v0.3.0에 추가한 버튼 표기 및 타이틀 이미지 수정본은 파일 구조와 해시를 검증했으며, 실제 게임 화면 확인은 진행 중입니다.
+- v0.9.0에 포함된 버튼 표기 및 타이틀 이미지 수정본은 파일 구조와 해시를 검증했으며, 실제 게임 화면 확인은 진행 중입니다.
 - PS Vita 실기기에서 rePatch 적용과 전체 게임 진행은 아직 확인하지 않았습니다.
 
 문제가 있으면 해당 화면, 발생 시점, 게임 버전과 패치 적용 방식을 함께 제보해 주세요.
